@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "151177187739",
+    "project_id": "ccliente-c3cfe",
+    "storage_bucket": "ccliente-c3cfe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151177187739:android:833bdd4dccefdd28dd913e",
+        "android_client_info": {
+          "package_name": "com.example.ccliente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj-kSt48EcU0mU2t3WrHmUKOAWd10JXXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151177187739:android:74f37823fb7bd995dd913e",
+        "android_client_info": {
+          "package_name": "com.example.crudadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj-kSt48EcU0mU2t3WrHmUKOAWd10JXXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
